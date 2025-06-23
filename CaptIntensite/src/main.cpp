@@ -41,6 +41,5 @@ void loop() {
     Serial.print(courant_brut);
     Serial.print(", ");
     Serial.println(courant_filtre);
-
     delay(1000);
 }
